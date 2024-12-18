@@ -10,7 +10,7 @@ Este es un programa en Java que permite convertir montos entre diferentes moneda
 - Implementado con una estructura modular para facilitar la escalabilidad.
 
 ## Estructura
-
+```plaintext
 ├── Principal.java          // Clase principal del programa
 ├── ConsultarMoneda.java    // Clase para interactuar con la API de ExchangeRate-API
 ├── ConvertirMoneda.java    // Clase con lógica para convertir monedas
